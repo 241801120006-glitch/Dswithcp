@@ -27,12 +27,15 @@ class Node{
 }
 class Main {
     public static void main(String[] args) {
-        System.out.println("lakshmi");
+        System.out.println("uday");
         Node a=new Node(50);
         Node b=new Node(100);
          System.out.println(a);
          System.out.println(b);
          a.getdata();
          b.getdata();
+         
+    }
+}
          
     
